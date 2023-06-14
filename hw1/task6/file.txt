@@ -1,0 +1,5 @@
+a 2
+aa 2
+abc 2
+ac 1
+bcd 1
